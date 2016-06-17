@@ -30,7 +30,7 @@
     <Compile Include="protractor.conf.js" />
     <Compile Include="src\components\contact-list\contact-list-directive.js" />
     <Compile Include="src\components\contact-list\contact-list-filter.js" />
-    <Compile Include="src\components\contact-list\contact-list.js" />
+    <Compile Include="src\components\contact-list\contact-list-service.js" />
     <Compile Include="src\components\contact-list\index.js" />
     <Compile Include="src\components\user-login\user-login-controller.js" />
     <Compile Include="src\components\user-login\user-login-service.js" />

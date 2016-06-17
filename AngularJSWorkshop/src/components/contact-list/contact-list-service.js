@@ -1,4 +1,5 @@
-﻿class ContactsService {
+﻿
+class ContactsService {
 
     constructor($http, ContactsServiceApi) {
 
